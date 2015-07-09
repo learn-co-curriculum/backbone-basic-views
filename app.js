@@ -1,5 +1,5 @@
+app = {};
 function bootstrap() {
- var mainView = new MainView();
- $("body").append(mainView.el); 
- return mainView;
+  app.mainView = new MainView();
+  $("body").append(app.mainView.el); 
 }
