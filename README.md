@@ -74,3 +74,5 @@ Since we're using Jasmine for testing, you don't actually need the standard `ind
 ## Resources
 
 * [What is a view?](https://cdnjs.com/libraries/backbone.js/tutorials/what-is-a-view/)
+
+<a href='https://learn.co/lessons/backbone-basic-views' data-visibility='hidden'>View this lesson on Learn.co</a>
